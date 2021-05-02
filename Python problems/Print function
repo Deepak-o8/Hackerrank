@@ -1,0 +1,5 @@
+x=input()
+n=1
+while n<=int(x):
+    print(n,end="")
+    n+=1
